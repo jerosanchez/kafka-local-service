@@ -1,8 +1,8 @@
-# Kafka Service (infra/kafka-service)
+# README
 
-This folder contains a small development environment for running Apache Kafka locally using Docker Compose.
+This is a small development environment for running Apache Kafka locally using Docker Compose.
 
-It's intended to help you test and debug message flows for your projects.
+It's intended to help you test and debug Kafka message flows for your projects.
 
 This particular Kafka image runs in a single-node KRaft mode (zero-ZK), e.g. only suitable for dev/test purposes.
 
