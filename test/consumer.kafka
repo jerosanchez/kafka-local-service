@@ -1,0 +1,6 @@
+### Consume a message from a topic
+CONSUMER other
+topic: test-topic
+from: 1
+
+###

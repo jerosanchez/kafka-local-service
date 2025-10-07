@@ -1,0 +1,8 @@
+### Sends a message to a topic
+
+PRODUCER keyed-message
+topic: test-topic
+key: test-key
+value: test-value
+
+###
