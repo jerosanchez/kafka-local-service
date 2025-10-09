@@ -4,7 +4,7 @@ This is a small development environment for running Apache Kafka locally using D
 
 It's intended to help you test and debug Kafka message flows for your projects.
 
-This particular Kafka image runs in a single-node KRaft mode (zero-ZK), e.g. only suitable for dev/test purposes.
+This particular Kafka image runs in a single-node KRaft mode (zero-ZK), not suitable for production.
 
 ## Starting the Kafka service
 
